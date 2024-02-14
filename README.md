@@ -67,7 +67,7 @@ The [mean][mean] for a [raised cosine][cosine-distribution] random variable with
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-mean@v0.2.0-deno/mod.js';
 ```
 
 #### mean( mu, s )
@@ -127,7 +127,7 @@ y = mean( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine-mean@v0.2.0-deno/mod.js';
 
 var mu;
 var s;
