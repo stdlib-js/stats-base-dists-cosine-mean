@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
+## Unreleased (2025-04-06)
+
+<section class="features">
+
+### Features
+
+-   [`1f53990`](https://github.com/stdlib-js/stdlib/commit/1f53990a00be857620285aa346fab8dc4a856b02) - add C implementation for `stats/base/dists/cosine/mean` [(#3985)](https://github.com/stdlib-js/stdlib/pull/3985)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3518](https://github.com/stdlib-js/stdlib/issues/3518)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,8 @@
 
 <details>
 
+-   [`1f53990`](https://github.com/stdlib-js/stdlib/commit/1f53990a00be857620285aa346fab8dc4a856b02) - **feat:** add C implementation for `stats/base/dists/cosine/mean` [(#3985)](https://github.com/stdlib-js/stdlib/pull/3985) _(by Divyansh Seth, Philipp Burckhardt, stdlib-bot)_
+-   [`247af42`](https://github.com/stdlib-js/stdlib/commit/247af42a6ec69194b9d251be4785c120155d7fd8) - **bench:** refactor random number generation in `stats/base/dists/cosine` [(#4861)](https://github.com/stdlib-js/stdlib/pull/4861) _(by Karan Anand)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +48,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Divyansh Seth
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
