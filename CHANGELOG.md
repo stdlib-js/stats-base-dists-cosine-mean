@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-07-08)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8ea46b6`](https://github.com/stdlib-js/stdlib/commit/8ea46b662dc6e27231d250d101e33a3cf770cd77) - **test:** update descriptions to match language used in JS tests _(by Philipp Burckhardt)_
 -   [`2f1bc9e`](https://github.com/stdlib-js/stdlib/commit/2f1bc9eb0ca087fb141fd68d1fe7704317be49a1) - **bench:** update random value generation [(#7093)](https://github.com/stdlib-js/stdlib/pull/7093) _(by Harsh)_
 -   [`6792321`](https://github.com/stdlib-js/stdlib/commit/6792321ed5029b40a9ed15ac3f2dba212eb713e0) - **docs:** replace manual `for` loop in examples [(#7074)](https://github.com/stdlib-js/stdlib/pull/7074) _(by Harsh)_
 -   [`5f73301`](https://github.com/stdlib-js/stdlib/commit/5f73301a8509cc423a06b02140c4e316fd02ff49) - **docs:** minor clean-up _(by Philipp Burckhardt)_
